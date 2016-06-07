@@ -1,25 +1,17 @@
 {
-  "name": "Dice-Game-Roller",
-  "version": "0.0.1",
-  "author": "Toxic",
-  "license": "All rights reserved",
-  "description":"A Dice rolling program to avoid nocking the peices over",
-
-  "bugs": {
-    "url": "https://github.com/sirtoxic/Dice_Game"
+  "name": "Dice_Game",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
   },
-
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sirtoxic/Dice_Game"
-  },
-
   "dependencies": {
-    "express": "^4.13.4",
-    "handlebars": "^4.0.5",
-    "nodeunit": "0.9.1",
-    "bootstrap":"^3.3.6"
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "hbs": "~3.1.0",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
   }
 }
-
-
