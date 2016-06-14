@@ -6,3 +6,38 @@ body {
 a {
   color: #00B7FF;
 }
+
+.paintGrey-Dev {
+  background: lightgrey;
+}
+.paintBlue-Dev{
+  background: lightblue;
+}
+.paintYellow-Dev{
+  background: yellow;
+}
+.paintGreen-Dev{
+  background: greenyellow;
+}
+.paintRed-Dev{
+  background: indianred;
+}
+.paintPurple-Dev{
+  background: mediumpurple;
+}
+.maxHeight-Dev{
+  height:100%;
+}
+.height1000-Dev{
+  height: 1000px;
+}
+
+.height150-Dev{
+  height: 150px;
+}
+.height200-Dev{
+  height: 200px;
+}
+.height50-Dev{
+  height: 50px;
+}
